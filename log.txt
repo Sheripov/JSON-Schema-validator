@@ -1,5 +1,3 @@
-# JSON-Schema-validator
-
 
 Chosen file: 3ade063d-d1b9-453f-85b4-dda7bfda4711.json
 Schema chosen: cmarker_calculated.schema
